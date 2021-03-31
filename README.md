@@ -1,0 +1,1 @@
+This is Nadolny7's first Git project!
